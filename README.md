@@ -12,7 +12,8 @@
 3. "helpful_vote": 0,
 4. "verified_purchase": true
    
-## 預測目標：ratings (1-5 顆星)
+## 預測目標：
+- ratings (1-5 顆星)
 
 ## 使用模型
 - Bert
