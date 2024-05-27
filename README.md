@@ -17,6 +17,3 @@
 
 ## 使用模型
 - Bert
-
-## cross-entropy loss
-- 
